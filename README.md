@@ -1,2 +1,1 @@
-# NEO4J-Cours
-Cours neo4j + cypher
+# neo4j-courses
